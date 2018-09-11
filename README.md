@@ -1,2 +1,2 @@
-# genetic-algorithm
+# Genetic-algorithm
 The famous Shakespeare-Monkey problem 
